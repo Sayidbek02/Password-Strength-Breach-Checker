@@ -908,24 +908,3 @@ main() {
     # Tahlil qilish
     analyze_password "$password"
 }
-
-# Dasturni ishga tushirish
-main "$@"
-
-You are a senior Linux and Bash expert.
-
-I will provide a large Bash (.sh) script (around 1000 lines). 
-Your task is to translate ALL comments, echo outputs, and user-facing messages into professional English.
-
-IMPORTANT RULES:
-- Do NOT remove or modify any logic.
-- Do NOT change variable names.
-- Do NOT change functions or command structure.
-- Do NOT optimize or refactor the code.
-- Keep the exact same formatting and structure.
-- Translate EVERYTHING completely (no skipping lines).
-- If the script is too long, continue automatically in parts until the entire code is translated.
-- Do NOT summarize.
-- Output only the fully translated script.
-
-Wait for the script input.
